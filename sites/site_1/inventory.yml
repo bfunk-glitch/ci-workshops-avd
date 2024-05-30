@@ -22,7 +22,7 @@ SITE1_FABRIC_SERVICES:
       children:
         SITE1_SPINES:
         SITE1_LEAFS:
-    SITE1_FABRIC_PORTS:
+SITE1_FABRIC_PORTS:
       children:
         SITE1_SPINES:
         SITE1_LEAFS:
